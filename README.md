@@ -6,13 +6,9 @@ Sentiti libero di contribuire aggiungendo nuovi strumenti, suggerendo migliorame
 
 ## Indice
 
-- [Elaborazione del Linguaggio Naturale](#elaborazione-del-linguaggio-naturale)
-- [Visione Artificiale](#visione-artificiale)
-- [Apprendimento Automatico](#apprendimento-automatico)
-- [Analisi dei Dati](#analisi-dei-dati)
-- [Riconoscimento Vocale](#riconoscimento-voce)
-- [Chatbot](#chatbot)
-- [Robotica](#robotica)
+- [Text-to-Image](#text-to-image)
+- [Speech](#speech)
+- [Corsi](#corsi)
 
 ## Text-to-Image
 
