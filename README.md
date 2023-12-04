@@ -1,8 +1,8 @@
 # AI tools 
 
-Benvenuti nella mia raccolta di Strumenti AI facilmenti utilizzabili nel web e, possibilmente, gratuiti! Questa repository mira a fornire una lista esaustiva di strumenti AI disponibili sul web, suddivisi in categorie. Che tu sia uno sviluppatore, un ricercatore, un artista o un appassionato, troverai una vasta gamma di strumenti AI gratuiti che possono aiutarti in varie attività.
+Raccolta di Strumenti AI facilmenti utilizzabili nel web e, possibilmente, gratuiti! Questa repository mira a fornire una lista esaustiva di strumenti AI disponibili sul web, suddivisi in categorie. Che tu sia uno sviluppatore, un ricercatore, un artista o un appassionato, troverai una vasta gamma di strumenti AI gratuiti che possono aiutarti in varie attività.
 
-Sentiti libero di contribuire aggiungendo nuovi strumenti, suggerendo miglioramenti o correggendo eventuali inesattezze che potresti riscontrare. Costruiamo insieme una repo  completa!
+Sentiti libero di contribuire aggiungendo nuovi strumenti, suggerendo miglioramenti o correggendo eventuali inesattezze che potresti riscontrare.
 
 ## Indice
 
@@ -25,4 +25,4 @@ https://playgroundai.com/
 
 Ricorda che mentre la maggior parte degli strumenti elencati qui offre versioni gratuite, alcuni potrebbero avere funzionalità premium o piani a pagamento. Assicurati di esaminare le loro licenze e termini d'uso prima di integrarli nei tuoi progetti.
 
-Le contribuzioni sono benvenute! Per favore, invia richieste di pull per aggiungere nuovi strumenti o suggerire modifiche a quelli esistenti. Rendiamo questa raccolta ancora più eccezionale!
+Le contribuzioni sono benvenute! Per favore, invia richieste di pull o aprite una nuova issue per aggiungere nuovi strumenti o suggerire modifiche a quelli esistenti. Rendiamo questa raccolta ancora più eccezionale!
