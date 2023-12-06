@@ -12,8 +12,8 @@ Sentiti libero di contribuire aggiungendo nuovi strumenti, suggerendo migliorame
 
 ## Text-to-Image
 
-https://ideogram.ai/
-https://playgroundai.com/
+1. [Ideogram.ai](https://ideogram.ai/)
+2. [Playgroundai](https://playgroundai.com/)
 
 ## Speech
 
