@@ -5,10 +5,17 @@ Raccolta di Strumenti AI facilmenti utilizzabili nel web e, possibilmente, gratu
 Sentiti libero di contribuire aggiungendo nuovi strumenti, suggerendo miglioramenti o correggendo eventuali inesattezze che potresti riscontrare.
 
 ## Indice
-
+- [Chatbots](#chatbots)
 - [Text-to-Image](#text-to-image)
 - [Speech](#speech)
 - [Corsi](#corsi)
+
+## Chatbots
+
+1. [ChatGPT](https://chat.openai.com/)
+2. [Bing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=undexpand)
+3. [Bard](https://bard.google.com/chat)
+
 
 ## Text-to-Image
 
