@@ -7,6 +7,7 @@ Sentiti libero di contribuire aggiungendo nuovi strumenti, suggerendo migliorame
 ## Indice
 - [Chatbots](#chatbots)
 - [Text-to-Image](#text-to-image)
+- [Text-to-Music](#text-to-music)
 - [Speech](#speech)
 - [Corsi](#corsi)
 
@@ -15,12 +16,18 @@ Sentiti libero di contribuire aggiungendo nuovi strumenti, suggerendo migliorame
 1. [ChatGPT](https://chat.openai.com/)
 2. [Bing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=undexpand)
 3. [Bard](https://bard.google.com/chat)
+3. [Claude](https://claude.ai/new)
 
 
 ## Text-to-Image
 
 1. [Ideogram.ai](https://ideogram.ai/)
 2. [Playgroundai](https://playgroundai.com/)
+3. [Gentype](https://labs.google/gentype): produce the entire alphabet with the style described in a prompt. 
+
+## Text-to-Music
+
+1. [Suno](https://suno.com/)
 
 ## Speech
 
